@@ -17,3 +17,11 @@ JDK, e(fx)clipse plug-in, eclipse
 1. 서버&클라이언트 실행
 
 ![동작](https://user-images.githubusercontent.com/77962884/107383485-63b1cc00-6b34-11eb-9058-e24abf46c0e7.PNG)
+
+2. 서버 시작 
+
+![서버접속](https://user-images.githubusercontent.com/77962884/107383553-73c9ab80-6b34-11eb-8060-d97e7a3ba90f.PNG)
+
+3. 닉네임 입력 후 채팅방 접속, 메시지 전송
+
+![접속후 메시지 보내기1](https://user-images.githubusercontent.com/77962884/107383687-978cf180-6b34-11eb-9fb3-946de52ad97e.PNG)

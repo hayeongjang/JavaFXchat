@@ -67,7 +67,7 @@ Server Log
 
 ![2](https://user-images.githubusercontent.com/77962884/107383765-a96e9480-6b34-11eb-89af-d7aa69df145e.PNG)
 
-5.종료하기
+5. 종료하기
 
 어떠한 메시지를 보내도 서버와 끊겼기 때문에 메시지 출력이 안 된다.
 

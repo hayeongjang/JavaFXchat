@@ -7,6 +7,8 @@
 JDK, e(fx)clipse plug-in, eclipse
 ## 개발과정
 * 전체적인 흐름
+![전체적 흐름](https://user-images.githubusercontent.com/77962884/107382102-dd48ba80-6b32-11eb-9de8-76a7e55d7460.PNG)
+
    * 클라이언트가 연결 요청
    * 서버의 스레드 풀에서 연결 수락 후 Socket 생성
    * 클라이언트가 작업 처리 요청

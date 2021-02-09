@@ -33,7 +33,7 @@ JDK, e(fx)clipse plug-in, eclipse
   * startClient() : 클라이언트 프로그램 동작 
   
 ## 세부기능 설명
-1. 서버&클라이언트 실행
+1. 서버 & 클라이언트 실행
 
 ![동작](https://user-images.githubusercontent.com/77962884/107383485-63b1cc00-6b34-11eb-9058-e24abf46c0e7.PNG)
 
